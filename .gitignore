@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+build/
+dist/
+*.egg-info/
+dev_samples.local.json
+outputs/
+docs/ui_baseline/phase1_scale_*.png
